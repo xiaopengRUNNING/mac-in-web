@@ -13,7 +13,6 @@ declare module '@vue/runtime-core' {
     AConfigProvider: typeof import('@arco-design/web-vue')['ConfigProvider']
     ADivider: typeof import('@arco-design/web-vue')['Divider']
     ALink: typeof import('@arco-design/web-vue')['Link']
-    AResult: typeof import('@arco-design/web-vue')['Result']
     ATooltip: typeof import('@arco-design/web-vue')['Tooltip']
     RouterLink: typeof import('vue-router')['RouterLink']
     RouterView: typeof import('vue-router')['RouterView']
